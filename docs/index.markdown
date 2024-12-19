@@ -1,17 +1,30 @@
 ---
 layout: default
 ---
+To add to Google Calendar, click in the embedded calendar above (either a blue "Add to Google Calendar" link or a + sign button, depending on whether you're on Dekstop or Mobile)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Calendar Links
 
-[Link to another page](./another-page.html).
+The following links are in iCal format and can be used by a variety of different applications:
 
-There should be whitespace between paragraphs.
+<style type="text/css">
+  p {
+    white-space: pre-wrap; /* CSS3 */    
+    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+    white-space: -pre-wrap; /* Opera 4-6 */    
+    white-space: -o-pre-wrap; /* Opera 7 */    
+    word-wrap: break-word; /* Internet Explorer 5.5+ */
+  }
+</style>
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Puppy/Fetish
 
-# Header 1
+https://calendar.google.com/calendar/ical/{{ site.calendar_ids[0] }}/public/basic.ics
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### Dance/Music
 
-## Header 2
+https://calendar.google.com/calendar/ical/{{ site.calendar_ids[1] }}/public/basic.ics
+
+### Drag/Misc LGBT
+
+https://calendar.google.com/calendar/ical/{{ site.calendar_ids[2] }}/public/basic.ics

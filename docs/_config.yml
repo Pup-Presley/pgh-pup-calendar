@@ -26,6 +26,20 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Pup-Presley
 owner_name: Pup Presley
+calendar_ids:
+  # Puppy/Fetish
+  - 9e0318a12e491e7f979db1aa1d1bda45169415f7b6f2a511f0c914f5b4e426ca@group.calendar.google.com
+  # Dance/Music
+  - b23ce7502b664d023a20e4b08c54b91d4997a59d954f51739d48aac3f32e02a0@group.calendar.google.com
+  # Drag/Misc LGBT
+  - d1ed6d70b36164913c04fcb5904abb7d38602efdcc4d4c95796a46eaff8e2631@group.calendar.google.com
+calendar_colors:
+  # Puppy/Fetish
+  - 616161
+  # Dance/Music
+  - 009688
+  # Drag/Misc LGBT
+  - 7986CB
 
 # Build settings
 theme: jekyll-theme-slate
