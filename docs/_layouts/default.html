@@ -54,13 +54,13 @@
         <div class="responsiveCal">
           <div class="deskContent">
             <iframe src=
-            "https://calendar.google.com/calendar/embed?mode=WEEK&wkst=1&ctz=America%2FNew_York&showPrint=0&showTitle=0&src={{ site.calendar_ids[0] }}&src={{ site.calendar_ids[1] }}&src={{ site.calendar_ids[2] }}&color=%23{{ site.calendar_colors[0] }}&color=%23{{ site.calendar_colors[1] }}&color=%23{{ site.calendar_colors[2] }}" 
+            "https://calendar.google.com/calendar/embed?mode=WEEK&wkst=1&ctz=America%2FNew_York&showPrint=0&showTitle=0&src={{ site.calendar_ids[0] }}&src={{ site.calendar_ids[1] }}&color=%23{{ site.calendar_colors[0] }}&color=%23{{ site.calendar_colors[1] }}" 
             style="border: 0" width="800" height="600" frameborder="0" scrolling="no">
             </iframe>
           </div>
           <div class="phoneContent">
             <iframe src=
-            "https://calendar.google.com/calendar/embed?mode=AGENDA&height=400&wkst=1&ctz=America%2FNew_York&showPrint=0&showTitle=0&src={{ site.calendar_ids[0] }}&src={{ site.calendar_ids[1] }}&src={{ site.calendar_ids[2] }}&color=%23{{ site.calendar_colors[0] }}&color=%23{{ site.calendar_colors[1] }}&color=%23{{ site.calendar_colors[2] }}" 
+            "https://calendar.google.com/calendar/embed?mode=AGENDA&height=400&wkst=1&ctz=America%2FNew_York&showPrint=0&showTitle=0&src={{ site.calendar_ids[0] }}&src={{ site.calendar_ids[1] }}&color=%23{{ site.calendar_colors[0] }}&color=%23{{ site.calendar_colors[1] }}" 
             style="border: 0" width="280" height="500" frameborder="0" scrolling="no">
             </iframe>
           </div>
@@ -88,7 +88,7 @@
     <div id="footer_wrap" class="outer">
       <footer class="inner">
         {% if site.github.is_project_page %}
-        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="mailto:{{ site.email }}">{{ site.owner_name }}</a></p>
+        <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="mailto:{{ site.email }}">{{ site.owner_name }}</a> <a href="https://linktr.ee/puppresley">(Linktree)</a></p>
         {% endif %}
         <p>Published with <a href="https://pages.github.com">GitHub Pages</a> by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
       </footer>

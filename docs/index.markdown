@@ -24,7 +24,3 @@ https://calendar.google.com/calendar/ical/{{ site.calendar_ids[0] }}/public/basi
 ### Dance/Music
 
 https://calendar.google.com/calendar/ical/{{ site.calendar_ids[1] }}/public/basic.ics
-
-### Drag/Misc LGBT
-
-https://calendar.google.com/calendar/ical/{{ site.calendar_ids[2] }}/public/basic.ics

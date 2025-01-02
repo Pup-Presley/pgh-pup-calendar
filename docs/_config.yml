@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PGH Pup Calendar
+title: Pittsburgh Pup Calendar
 email: puppresley1337@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Test deployment for Pittsburgh Pup Calendar
+  Calendar for pup and music events in the Pittsburgh area
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Pup-Presley
@@ -32,14 +32,14 @@ calendar_ids:
   # Dance/Music
   - b23ce7502b664d023a20e4b08c54b91d4997a59d954f51739d48aac3f32e02a0@group.calendar.google.com
   # Drag/Misc LGBT
-  - d1ed6d70b36164913c04fcb5904abb7d38602efdcc4d4c95796a46eaff8e2631@group.calendar.google.com
+  # - d1ed6d70b36164913c04fcb5904abb7d38602efdcc4d4c95796a46eaff8e2631@group.calendar.google.com
 calendar_colors:
   # Puppy/Fetish
   - 616161
   # Dance/Music
   - 009688
   # Drag/Misc LGBT
-  - 7986CB
+  # - 7986CB
 
 # Build settings
 theme: jekyll-theme-slate
