@@ -63,3 +63,7 @@ theme: jekyll-theme-slate
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Added to redirect presley.dog base page to linktr.ee
+plugins:
+  - jekyll-redirect-from
