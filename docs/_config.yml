@@ -42,7 +42,7 @@ calendar_colors:
   # - 7986CB
 
 # Build settings
-theme: jekyll-theme-slate
+# theme: jekyll-theme-slate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
