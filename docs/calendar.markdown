@@ -1,21 +1,11 @@
 ---
 layout: calendar
 ---
-To add to Google Calendar, click in the embedded calendar above (either a blue "Add to Google Calendar" link or a + sign button, depending on whether you're on Dekstop or Mobile)
+If you use Google Calendar, you can add to your calendar by clicking in the embedded calendar above (either a blue "Add to Google Calendar" link or a + sign button, depending on whether you're on Dekstop or Mobile)
 
 # Calendar Links
 
-The following links are in iCal format and can be used by a variety of different applications:
-
-<style type="text/css">
-  p {
-    white-space: pre-wrap; /* CSS3 */    
-    white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
-    white-space: -pre-wrap; /* Opera 4-6 */    
-    white-space: -o-pre-wrap; /* Opera 7 */    
-    word-wrap: break-word; /* Internet Explorer 5.5+ */
-  }
-</style>
+For integration with other calendar applications, the following links are in iCal format and can be used by a variety of different applications:
 
 ### Puppy/Fetish
 
