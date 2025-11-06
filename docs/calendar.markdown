@@ -7,7 +7,7 @@ If you use Google Calendar, you can add to your calendar by clicking in the embe
 
 For integration with other calendar applications, the following links are in iCal format and can be used by a variety of different applications:
 
-### Puppy/Fetish
+### Pet/Fetish
 
 https://calendar.google.com/calendar/ical/{{ site.calendar_ids[0] }}/public/basic.ics
 
